@@ -1,32 +1,32 @@
 # Employee Management API
 
-Spring Boot + MongoDB based Employee Management REST API.
-
-## Features
-
-- Create Employee
-- Get Employee
-- Update Employee
-- Delete Employee
+A Spring Boot REST API for managing employee records with MongoDB integration.
 
 ## Tech Stack
 
-- Java
-- Spring Boot
-- MongoDB
-- Maven
-- Postman
+* Java
+* Spring Boot
+* MongoDB
+* Maven
+* Postman
+
+## Features
+
+* Create Employee
+* Get Employee
+* Update Employee
+* Delete Employee
 
 ## Screenshots
 
-### Get All Employees
+### Employee API Testing
 
-![Get Employees](screenshots/get-employees.png)
+![API Test](screenshots/Screenshot%202026-06-22%20120001.png)
 
-### Add Employee
+### MongoDB Records
 
-![Add Employee](screenshots/add-employee.png)
+![MongoDB](screenshots/Screenshot%202026-06-22%20120022.png)
 
-### MongoDB Data
+### Employee Data
 
-![MongoDB](screenshots/mongodb-data.png)
+![Employee Data](screenshots/Screenshot%202026-06-22%20120051.png)
